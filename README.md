@@ -9,3 +9,7 @@ To practice code refactoring.  Making the website more accessible adding "alt" t
 
 ## Website 
 https://eganward.github.io/Horiseon-Assignment/
+
+## Screenshot
+[./assets/images/ss1.png]
+[./assets/images/ss2.png]
